@@ -1,0 +1,17 @@
+# IDEA files
+/.idea/
+*.iml
+
+#maven build file
+/target/
+/target/*
+/target
+/MyBatisWeb/target/
+/MyBatisWeb/target/*
+/MyBatisWeb/target
+/OriginalMyBatis/target/
+/OriginalMyBatis/target/*
+/OriginalMyBatis/target
+
+#java class file
+*.class
